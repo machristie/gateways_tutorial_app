@@ -1,0 +1,2 @@
+recursive-include gateways_tutorial_app/static *
+recursive-include gateways_tutorial_app/templates *
