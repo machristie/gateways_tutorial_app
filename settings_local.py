@@ -96,7 +96,7 @@ SHARING_API_PORT = 7878
 SHARING_API_SECURE = False
 
 # Portal settings
-PORTAL_TITLE = 'Gateways19 Tutorial Portal'
+PORTAL_TITLE = 'Gateways Tutorial Portal'
 
 # Logging configuration. Uncomment following to override default log configuration
 # LOGGING = {
